@@ -8,5 +8,10 @@
  * @donate https://buymeacoffee.com/worldshaper
  */
 
-@import url('https://fonts.google.com/specimen/Overpass+Mono?query=Overpass+Mono');
-@import url('');
+@import url('https://fonts.googleapis.com/css2?family=Overpass+Mono');
+@import url('https://github.com/heonteokolmaen/GreyHat-Theme/blob/main/base.css');
+
+:root{
+    --font-primary: 'Overpass Mono';
+    --primary-text-color: lightgray;
+}
